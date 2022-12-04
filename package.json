@@ -1,0 +1,25 @@
+{
+  "name": "react-json-preview",
+  "version": "0.0.1",
+  "description": "",
+  "author": "ruihuag",
+  "license": "MIT",
+  "scripts": {
+    "pub": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guanruihua/react-json-preview.git"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "lib/"
+  ],
+  "bugs": {
+    "url": "https://github.com/guanruihua/react-json-preview/issues"
+  },
+  "homepage": "https://github.com/guanruihua/react-json-preview",
+  "keywords": []
+}
